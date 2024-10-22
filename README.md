@@ -16,4 +16,9 @@ Este é um projeto de jogo simples desenvolvido com HTML, CSS e JavaScript.
 
 ## Como Executar
 
-## 🕹️ [Clique Aqui para Jogar](#)
+## 🕹️ [Clique Aqui para Jogar](https://karineyasmin.github.io/JogoDetonaRalph/)
+
+
+## Imagens do jogo
+
+<img src="https://i.ibb.co/SwkmwzP/Captura-de-tela-de-2024-10-22-18-46-50.png" alt="Captura-de-tela-de-2024-10-22-18-46-50" border="0">
